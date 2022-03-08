@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OscarHgg. I like making things out of nothing, gradually then suddenly.
+- 👋 Hi, I’m @OscarHgg. I like making things out of nothing. Gradually, then suddenly.
 
 <!---
 OscarHgg/OscarHgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
